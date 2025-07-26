@@ -1,3 +1,3 @@
 # github-demo
 My first GitHub repository
-Author - Patricia
+Author - Patricia Caroline
